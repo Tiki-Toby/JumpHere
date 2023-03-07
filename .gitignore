@@ -1,0 +1,11 @@
+﻿.plastic
+UserSettings
+Library
+Logs
+obj
+ProjectSettings
+.vs
+Assets/Firebase
+Assets/Plugins/iOS
+Assets/Plugins/Android
+Assets/Plugins/Firebase

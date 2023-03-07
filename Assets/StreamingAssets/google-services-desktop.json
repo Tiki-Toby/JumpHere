@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14265086230",
+    "firebase_url": "https://jumphere-46874811-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jumphere-46874811",
+    "storage_bucket": "jumphere-46874811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14265086230:android:c5e18734dfd9a557fb2037",
+        "android_client_info": {
+          "package_name": "com.HairyElephant.JumpHere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14265086230-vvudl96v5uekas1php0q8sj4cerb9hhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEoykV6L8MR-aS_O_rBrZxTtnlfEqvjQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14265086230-vvudl96v5uekas1php0q8sj4cerb9hhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
